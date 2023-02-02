@@ -49,3 +49,5 @@ https://mydomain.com/
 https://mydomain.com:8080
 https://mydomain.com:8080/
 ```
+
+https://regex101.com/r/FFrhua/1
